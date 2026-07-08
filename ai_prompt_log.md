@@ -1,0 +1,2 @@
+- Association ,Aggregation ,Composition ,Generalization , Realization , Strategy , Observer là gì, cho ví dụ
+- Format uml_audit_report.md file
